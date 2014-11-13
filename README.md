@@ -1,4 +1,9 @@
 hello-world
 ===========
 
-Just a try....
+Hi Humans!
+
+This is micintosh; I am learning Github now!
+
+Best,
+micintosh
